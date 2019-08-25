@@ -1,0 +1,610 @@
+2019-07-22 11:37:15 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-07-22 11:37:26 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-07-22 11:37:26 INFO  RestAssuredAPITesting:37 - *********TC001_Get_All_Employees ended**********
+2019-07-22 11:39:35 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-07-22 11:39:45 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-07-22 11:39:45 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-07-22 11:39:45 INFO  RestAssuredAPITesting:44 - *********TC001_Get_All_Employees ended**********
+2019-07-22 11:40:32 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-07-22 11:40:41 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-07-22 11:40:42 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-07-22 11:40:42 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-07-22 11:40:42 INFO  RestAssuredAPITesting:45 - *********TC001_Get_All_Employees ended**********
+2019-07-28 20:28:06 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-07-28 20:28:19 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-07-28 20:28:19 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-07-28 20:28:19 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-07-28 20:28:19 INFO  RestAssuredAPITesting:45 - *********TC001_Get_All_Employees ended**********
+2019-07-28 20:35:56 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-07-28 20:36:06 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-07-28 20:36:06 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-07-28 20:36:06 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-07-28 20:36:06 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-07-28 20:36:29 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-07-28 20:36:39 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-07-28 20:36:39 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-07-28 20:36:39 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-07-28 20:36:39 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-07-28 21:06:32 INFO  RestAssuredAPITesting:18 - ************TC002_Get_Specific_Employee started******************
+2019-07-28 21:06:40 INFO  RestAssuredAPITesting:27 - ************checking the response body******************
+2019-07-28 21:06:40 INFO  RestAssuredAPITesting:36 - ************checking status code******************
+2019-07-28 21:41:00 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:41:01 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:41:01 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-07-28 21:41:01 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:41:05 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-07-28 21:44:12 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:44:13 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:44:44 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:44:46 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:45:05 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:45:06 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:45:06 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-07-28 21:45:06 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:45:09 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-07-28 21:45:52 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:45:54 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:45:58 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-07-28 21:46:03 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:49:00 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:49:02 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:49:35 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:49:36 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:49:39 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-07-28 21:49:44 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:49:44 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-07-28 21:51:01 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:51:02 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:51:06 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-07-28 21:51:11 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:51:11 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-07-28 21:52:03 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-07-28 21:52:05 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-07-28 21:52:09 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-07-28 21:52:14 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-07-28 21:52:14 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-08-17 19:31:05 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:31:17 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:31:17 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:31:17 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:31:18 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:31:18 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:31:18 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:31:18 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:31:18 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:31:18 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-08-17 19:31:23 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-08-17 19:31:23 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-08-17 19:31:23 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-17 19:36:37 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:36:47 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:36:48 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:36:49 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-08-17 19:36:54 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-08-17 19:36:54 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-08-17 19:36:54 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-17 19:38:37 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:38:48 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:38:49 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:38:50 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-08-17 19:38:55 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-08-17 19:38:55 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-08-17 19:38:55 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-17 19:41:11 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:41:22 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:41:23 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:41:24 INFO  RestAssuredAPITesting:45 - ************New Employee Created******************
+2019-08-17 19:41:29 INFO  RestAssuredAPITesting:51 - ************Checking response body******************
+2019-08-17 19:41:29 INFO  RestAssuredAPITesting:61 - ************Checking Status code******************
+2019-08-17 19:41:29 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-17 19:48:34 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:48:44 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:48:45 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:48:46 INFO  RestAssuredAPITesting:46 - ************New Employee Created******************
+2019-08-17 19:48:51 INFO  RestAssuredAPITesting:52 - ************Checking response body******************
+2019-08-17 19:48:51 INFO  RestAssuredAPITesting:62 - ************Checking Status code******************
+2019-08-17 19:48:51 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-17 19:50:17 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:50:27 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:50:27 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:50:27 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:50:27 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:50:27 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:50:28 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:50:28 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:50:28 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:50:28 INFO  RestAssuredAPITesting:46 - ************New Employee Created******************
+2019-08-17 19:50:33 INFO  RestAssuredAPITesting:52 - ************Checking response body******************
+2019-08-17 19:50:33 INFO  RestAssuredAPITesting:62 - ************Checking Status code******************
+2019-08-17 19:50:33 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-17 19:51:09 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:51:19 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:51:19 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:51:20 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:51:20 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:51:20 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:51:20 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:51:20 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:51:20 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:51:21 INFO  RestAssuredAPITesting:46 - ************New Employee Created******************
+2019-08-17 19:51:26 INFO  RestAssuredAPITesting:52 - ************Checking response body******************
+2019-08-17 19:54:09 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-17 19:54:20 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-17 19:54:20 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 19:54:59 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-17 19:54:59 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-17 19:54:59 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-17 19:54:59 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-17 19:54:59 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-17 19:54:59 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 19:55:00 INFO  RestAssuredAPITesting:46 - ************New Employee Created******************
+2019-08-17 19:55:05 INFO  RestAssuredAPITesting:52 - ************Checking response body******************
+2019-08-17 20:09:18 INFO  RestAssuredAPITesting:24 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 20:09:20 INFO  RestAssuredAPITesting:35 - ************creating a new Employee******************
+2019-08-17 20:09:25 INFO  RestAssuredAPITesting:46 - ************New Employee Created******************
+2019-08-17 20:09:30 INFO  RestAssuredAPITesting:52 - ************Checking response body******************
+2019-08-17 20:09:30 INFO  RestAssuredAPITesting:62 - ************Checking Status code******************
+2019-08-17 20:10:55 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-17 20:10:56 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-17 20:11:00 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-17 20:11:05 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-17 20:11:05 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:16:30 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 20:16:42 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 20:16:43 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:16:45 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:16:50 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:16:50 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:16:50 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 20:17:46 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 20:17:55 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 20:18:04 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:18:04 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 20:18:05 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 20:18:05 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 20:18:05 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 20:18:05 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 20:18:05 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:18:05 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:18:10 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:18:10 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:18:10 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 20:45:55 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 20:45:58 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 20:49:13 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 20:49:22 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 20:49:23 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:49:24 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:49:29 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 20:49:36 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:49:36 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:49:36 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 20:50:46 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 20:50:56 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 20:50:57 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 20:51:18 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:51:19 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:51:24 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 20:51:44 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:51:49 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:51:49 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 20:52:19 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:52:32 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 20:52:32 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:52:36 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:52:41 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 20:54:01 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 20:54:11 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 20:54:12 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:54:13 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:54:18 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 20:54:24 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:54:24 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:54:24 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 20:55:15 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:55:27 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:55:31 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:55:36 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:56:01 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:56:21 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:56:23 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:56:26 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:56:36 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:56:36 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:57:07 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 20:57:18 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 20:57:19 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 20:57:19 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 20:57:19 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 20:57:20 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 20:57:20 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 20:57:20 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 20:57:20 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 20:57:20 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 20:57:21 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 20:57:31 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 20:57:37 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 20:57:37 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 20:57:37 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 21:00:01 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 21:00:13 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 21:00:14 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 21:00:35 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 21:00:36 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 21:00:46 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 21:01:14 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 21:02:52 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:03:12 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:03:12 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 21:05:20 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 21:05:30 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 21:06:36 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 21:07:18 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 21:09:17 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:09:19 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:09:19 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 21:09:22 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 21:09:32 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 21:09:38 INFO  RestAssuredAPITesting:39 - *************Record updated******************
+2019-08-18 21:09:38 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 21:09:38 INFO  RestAssuredAPITesting:44 - Checking response code for update request
+2019-08-18 21:09:38 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 21:09:38 INFO  RestAssuredAPITesting:52 - Checking response body for update request
+2019-08-18 21:10:38 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:10:39 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:10:39 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 21:10:43 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 21:10:53 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 21:10:59 INFO  RestAssuredAPITesting:39 - *************Record updated******************
+2019-08-18 21:10:59 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 21:10:59 INFO  RestAssuredAPITesting:44 - Checking response code for update request
+2019-08-18 21:10:59 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 21:10:59 INFO  RestAssuredAPITesting:52 - Checking response body for update request
+2019-08-18 21:11:22 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:11:23 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:11:24 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 21:11:34 INFO  RestAssuredAPITesting:39 - *************Record updated******************
+2019-08-18 21:11:34 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 21:11:34 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 21:11:44 INFO  RestAssuredAPITesting:44 - Checking response code for update request
+2019-08-18 21:11:44 INFO  RestAssuredAPITesting:53 - ************Checking response body******************
+2019-08-18 21:11:44 INFO  RestAssuredAPITesting:52 - Checking response body for update request
+2019-08-18 21:11:44 INFO  RestAssuredAPITesting:63 - ************Checking Status code******************
+2019-08-18 21:13:09 INFO  RestAssuredAPITesting:25 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:13:10 INFO  RestAssuredAPITesting:21 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:13:11 INFO  RestAssuredAPITesting:29 - ***********Updating employee record************
+2019-08-18 21:13:20 INFO  RestAssuredAPITesting:39 - *************Record updated******************
+2019-08-18 21:13:20 INFO  RestAssuredAPITesting:36 - ************creating a new Employee******************
+2019-08-18 21:13:21 INFO  RestAssuredAPITesting:47 - ************New Employee Created******************
+2019-08-18 21:13:31 INFO  RestAssuredAPITesting:44 - Checking response code for update request
+2019-08-18 21:13:31 INFO  RestAssuredAPITesting:53 - ************Checking response body for create request******************
+2019-08-18 21:13:31 INFO  RestAssuredAPITesting:52 - Checking response body for update request
+2019-08-18 21:13:31 INFO  RestAssuredAPITesting:63 - ************Checking Status code for create request******************
+2019-08-18 21:15:57 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:15:59 INFO  RestAssuredAPITesting:22 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:15:59 INFO  RestAssuredAPITesting:30 - ***********Updating employee record************
+2019-08-18 21:16:08 INFO  RestAssuredAPITesting:40 - *************Record updated******************
+2019-08-18 21:16:08 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-18 21:16:09 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-18 21:16:19 INFO  RestAssuredAPITesting:45 - Checking response code for update request
+2019-08-18 21:16:19 INFO  RestAssuredAPITesting:54 - ************Checking response body for create request******************
+2019-08-18 21:16:19 INFO  RestAssuredAPITesting:53 - Checking response body for update request
+2019-08-18 21:16:19 INFO  RestAssuredAPITesting:64 - ************Checking Status code for create request******************
+2019-08-18 21:16:19 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-18 21:16:19 INFO  RestAssuredAPITesting:60 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-18 21:17:17 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:17:18 INFO  RestAssuredAPITesting:22 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:17:18 INFO  RestAssuredAPITesting:30 - ***********Updating employee record************
+2019-08-18 21:17:26 INFO  RestAssuredAPITesting:40 - *************Record updated******************
+2019-08-18 21:17:26 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-18 21:17:27 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-18 21:17:37 INFO  RestAssuredAPITesting:45 - Checking response code for update request
+2019-08-18 21:17:37 INFO  RestAssuredAPITesting:54 - ************Checking response body for create request******************
+2019-08-18 21:17:37 INFO  RestAssuredAPITesting:53 - Checking response body for update request
+2019-08-18 21:17:37 INFO  RestAssuredAPITesting:64 - ************Checking Status code for create request******************
+2019-08-18 21:17:37 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-18 21:17:37 INFO  RestAssuredAPITesting:60 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-18 21:19:44 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-18 21:19:54 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:22 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-18 21:19:55 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-18 21:19:56 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-18 21:20:06 INFO  RestAssuredAPITesting:30 - ***********Updating employee record************
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:40 - *************Record updated******************
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:54 - ************Checking response body for create request******************
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:45 - Checking response code for update request
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:64 - ************Checking Status code for create request******************
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:53 - Checking response body for update request
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-18 21:20:12 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-18 21:20:13 INFO  RestAssuredAPITesting:60 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 11:59:44 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-25 11:59:56 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 11:59:57 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 11:59:57 INFO  RestAssuredAPITesting:22 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 11:59:57 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-25 11:59:57 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-25 11:59:57 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-25 11:59:58 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-25 11:59:58 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-25 11:59:58 INFO  RestAssuredAPITesting:54 - ************Checking response body for create request******************
+2019-08-25 11:59:58 INFO  RestAssuredAPITesting:64 - ************Checking Status code for create request******************
+2019-08-25 11:59:58 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-25 11:59:59 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-25 12:00:09 INFO  RestAssuredAPITesting:53 - Checking response body for update request
+2019-08-25 12:00:09 INFO  RestAssuredAPITesting:30 - ***********Updating employee record************
+2019-08-25 12:00:15 INFO  RestAssuredAPITesting:40 - *************Record updated******************
+2019-08-25 12:00:15 INFO  RestAssuredAPITesting:45 - Checking response code for update request
+2019-08-25 12:00:15 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:00:15 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:00:15 INFO  RestAssuredAPITesting:60 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 12:06:33 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:06:43 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:22 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-25 12:06:44 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-25 12:06:45 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-25 12:06:55 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:06:55 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:06:55 INFO  RestAssuredAPITesting:60 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 12:09:33 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:22 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-25 12:09:43 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-25 12:09:44 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-25 12:09:44 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-25 12:09:45 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-25 12:09:55 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:09:55 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:09:55 INFO  RestAssuredAPITesting:60 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 12:10:42 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:10:52 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-25 12:10:53 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-25 12:10:54 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-25 12:11:04 INFO  RestAssuredAPITesting:54 - ************Checking response body for create request******************
+2019-08-25 12:11:04 INFO  RestAssuredAPITesting:64 - ************Checking Status code for create request******************
+2019-08-25 12:11:04 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:11:04 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:11:23 INFO  RestAssuredAPITesting:20 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:11:32 INFO  RestAssuredAPITesting:19 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:26 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:29 - ************checking response body*****************
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:36 - ************checking status code*****************
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:38 - Status code ==>200
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:28 - ************checking the response body******************
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:37 - ************checking status code******************
+2019-08-25 12:11:33 INFO  RestAssuredAPITesting:37 - ************creating a new Employee******************
+2019-08-25 12:11:34 INFO  RestAssuredAPITesting:48 - ************New Employee Created******************
+2019-08-25 12:11:44 INFO  RestAssuredAPITesting:54 - ************Checking response body for create request******************
+2019-08-25 12:11:44 INFO  RestAssuredAPITesting:64 - ************Checking Status code for create request******************
+2019-08-25 12:11:44 INFO  RestAssuredAPITesting:58 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:11:44 INFO  RestAssuredAPITesting:72 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:13:58 INFO  RestAssuredAPITesting:21 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:14:09 INFO  RestAssuredAPITesting:30 - ************checking response body*****************
+2019-08-25 12:14:09 INFO  RestAssuredAPITesting:37 - ************checking status code*****************
+2019-08-25 12:14:09 INFO  RestAssuredAPITesting:39 - Status code ==>200
+2019-08-25 12:14:09 INFO  RestAssuredAPITesting:27 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:14:09 INFO  RestAssuredAPITesting:38 - ************creating a new Employee******************
+2019-08-25 12:14:10 INFO  RestAssuredAPITesting:49 - ************New Employee Created******************
+2019-08-25 12:14:20 INFO  RestAssuredAPITesting:55 - ************Checking response body for create request******************
+2019-08-25 12:14:20 INFO  RestAssuredAPITesting:65 - ************Checking Status code for create request******************
+2019-08-25 12:14:20 INFO  RestAssuredAPITesting:59 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:14:20 INFO  RestAssuredAPITesting:73 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:16:24 INFO  RestAssuredAPITesting:21 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:16:35 INFO  RestAssuredAPITesting:30 - ************checking response body*****************
+2019-08-25 12:16:35 INFO  RestAssuredAPITesting:37 - ************checking status code*****************
+2019-08-25 12:16:35 INFO  RestAssuredAPITesting:39 - Status code ==>200
+2019-08-25 12:16:35 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:16:36 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:16:36 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:16:36 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:16:36 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:16:36 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:16:36 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:16:46 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:16:46 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:16:46 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:16:46 INFO  RestAssuredAPITesting:59 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:18:25 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:18:35 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:18:35 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:18:35 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:18:35 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:18:35 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:18:36 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:18:36 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:18:36 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:18:36 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:18:36 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:18:37 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:18:47 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:18:47 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:18:47 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:19:40 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:19:50 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:19:51 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:19:51 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:19:51 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:19:51 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:19:52 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:19:52 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:19:52 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:19:52 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:19:52 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:19:53 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:20:03 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:20:03 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:20:03 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:20:27 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:20:37 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:20:37 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:20:37 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:20:37 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:20:37 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:20:38 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:20:38 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:20:38 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:20:38 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:20:38 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:20:39 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:20:49 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 12:20:49 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 12:20:54 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 12:21:25 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:21:34 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:21:34 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:21:35 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:21:35 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:21:35 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:21:36 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:21:36 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:21:36 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:21:36 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:21:36 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:21:36 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:22:48 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:22:58 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:22:58 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:22:58 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:22:58 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:22:58 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:23:02 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:23:02 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:23:02 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:23:02 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:23:02 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:23:03 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:23:08 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 12:23:08 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 12:23:14 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 12:23:40 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 12:23:42 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 12:23:51 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 12:23:51 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:23:56 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:23:56 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:23:56 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:23:56 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:23:56 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:23:57 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:23:57 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:23:57 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:23:57 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:23:57 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:23:58 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:24:03 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 12:24:03 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:24:03 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 12:24:03 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 12:24:03 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:24:03 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:26:52 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 12:27:02 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 12:27:02 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 12:27:02 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 12:27:02 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 12:27:02 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 12:27:04 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 12:27:04 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 12:27:04 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 12:27:04 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 12:27:04 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 12:27:04 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 12:27:09 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 12:27:09 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 12:27:09 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 12:27:09 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 12:27:09 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 12:27:15 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 12:27:15 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 12:27:15 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 12:27:15 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
