@@ -1,91 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="23841" started-at="2019-08-25T06:56:51Z" finished-at="2019-08-25T06:57:15Z">
+  <suite name="Suite" duration-ms="26921" started-at="2019-08-25T16:22:16Z" finished-at="2019-08-25T16:22:43Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="23841" started-at="2019-08-25T06:56:51Z" finished-at="2019-08-25T06:57:15Z">
+    <test name="Test" duration-ms="26921" started-at="2019-08-25T16:22:16Z" finished-at="2019-08-25T16:22:43Z">
+      <class name="com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee">
+        <test-method status="PASS" signature="deleteEmployee()[pri:0, instance:com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee@53b32d7]" name="deleteEmployee" is-config="true" duration-ms="3256" started-at="2019-08-25T16:22:40Z" finished-at="2019-08-25T16:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmployee -->
+        <test-method status="PASS" signature="validateResponseBody()[pri:7, instance:com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee@53b32d7]" name="validateResponseBody" duration-ms="3" started-at="2019-08-25T16:22:43Z" finished-at="2019-08-25T16:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseBody -->
+        <test-method status="PASS" signature="validateStatusCode()[pri:8, instance:com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee@53b32d7]" name="validateStatusCode" duration-ms="2" started-at="2019-08-25T16:22:43Z" finished-at="2019-08-25T16:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method status="PASS" signature="validateStatusLine()[pri:9, instance:com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee@53b32d7]" name="validateStatusLine" duration-ms="1" started-at="2019-08-25T16:22:43Z" finished-at="2019-08-25T16:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusLine -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee@53b32d7]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-08-25T16:22:43Z" finished-at="2019-08-25T16:22:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee -->
       <class name="com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee">
-        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@42e26948]" name="getEmployeeDetails" is-config="true" duration-ms="3" started-at="2019-08-25T06:57:04Z" finished-at="2019-08-25T06:57:04Z">
+        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@57baeedf]" name="getEmployeeDetails" is-config="true" duration-ms="3" started-at="2019-08-25T16:22:28Z" finished-at="2019-08-25T16:22:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getEmployeeDetails -->
-        <test-method status="PASS" signature="createEmployee()[pri:0, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@42e26948]" name="createEmployee" duration-ms="5851" started-at="2019-08-25T06:57:04Z" finished-at="2019-08-25T06:57:09Z">
+        <test-method status="PASS" signature="createEmployee()[pri:0, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@57baeedf]" name="createEmployee" duration-ms="6408" started-at="2019-08-25T16:22:28Z" finished-at="2019-08-25T16:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createEmployee -->
-        <test-method status="PASS" signature="checkResponseBodyForCreate()[pri:1, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@42e26948]" name="checkResponseBodyForCreate" duration-ms="2" started-at="2019-08-25T06:57:09Z" finished-at="2019-08-25T06:57:09Z">
+        <test-method status="PASS" signature="checkResponseBodyForCreate()[pri:1, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@57baeedf]" name="checkResponseBodyForCreate" duration-ms="10" started-at="2019-08-25T16:22:34Z" finished-at="2019-08-25T16:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseBodyForCreate -->
-        <test-method status="PASS" signature="checkResponseCodeForCreate()[pri:2, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@42e26948]" name="checkResponseCodeForCreate" duration-ms="1" started-at="2019-08-25T06:57:09Z" finished-at="2019-08-25T06:57:09Z">
+        <test-method status="PASS" signature="checkResponseCodeForCreate()[pri:2, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@57baeedf]" name="checkResponseCodeForCreate" duration-ms="2" started-at="2019-08-25T16:22:34Z" finished-at="2019-08-25T16:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseCodeForCreate -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@42e26948]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-08-25T06:57:09Z" finished-at="2019-08-25T06:57:09Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee@57baeedf]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-08-25T16:22:34Z" finished-at="2019-08-25T16:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee -->
       <class name="com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee">
-        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@57baeedf]" name="getEmployeeDetails" is-config="true" duration-ms="13" started-at="2019-08-25T06:57:09Z" finished-at="2019-08-25T06:57:09Z">
+        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@343f4d3d]" name="getEmployeeDetails" is-config="true" duration-ms="17" started-at="2019-08-25T16:22:34Z" finished-at="2019-08-25T16:22:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getEmployeeDetails -->
-        <test-method status="PASS" signature="updateEmployeeRecord()[pri:4, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@57baeedf]" name="updateEmployeeRecord" duration-ms="5760" started-at="2019-08-25T06:57:09Z" finished-at="2019-08-25T06:57:15Z">
+        <test-method status="PASS" signature="updateEmployeeRecord()[pri:4, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@343f4d3d]" name="updateEmployeeRecord" duration-ms="5753" started-at="2019-08-25T16:22:34Z" finished-at="2019-08-25T16:22:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateEmployeeRecord -->
-        <test-method status="PASS" signature="verifyStatusCodeForUpdate()[pri:5, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@57baeedf]" name="verifyStatusCodeForUpdate" duration-ms="1" started-at="2019-08-25T06:57:15Z" finished-at="2019-08-25T06:57:15Z">
+        <test-method status="PASS" signature="verifyStatusCodeForUpdate()[pri:5, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@343f4d3d]" name="verifyStatusCodeForUpdate" duration-ms="2" started-at="2019-08-25T16:22:40Z" finished-at="2019-08-25T16:22:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyStatusCodeForUpdate -->
-        <test-method status="PASS" signature="checkResponseBodyForUpdate()[pri:6, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@57baeedf]" name="checkResponseBodyForUpdate" duration-ms="3" started-at="2019-08-25T06:57:15Z" finished-at="2019-08-25T06:57:15Z">
+        <test-method status="PASS" signature="checkResponseBodyForUpdate()[pri:6, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@343f4d3d]" name="checkResponseBodyForUpdate" duration-ms="2" started-at="2019-08-25T16:22:40Z" finished-at="2019-08-25T16:22:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseBodyForUpdate -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@57baeedf]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-08-25T06:57:15Z" finished-at="2019-08-25T06:57:15Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee@343f4d3d]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-08-25T16:22:40Z" finished-at="2019-08-25T16:22:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee -->
       <class name="com.qa.employeeapi.testcases.TC002_Get_Specific_Employee">
-        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@1794d431]" name="getEmployeeDetails" is-config="true" duration-ms="1508" started-at="2019-08-25T06:57:02Z" finished-at="2019-08-25T06:57:04Z">
+        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@42e26948]" name="getEmployeeDetails" is-config="true" duration-ms="773" started-at="2019-08-25T16:22:27Z" finished-at="2019-08-25T16:22:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getEmployeeDetails -->
-        <test-method status="PASS" signature="checkResponseData()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@1794d431]" name="checkResponseData" duration-ms="5" started-at="2019-08-25T06:57:04Z" finished-at="2019-08-25T06:57:04Z">
+        <test-method status="PASS" signature="checkResponseData()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@42e26948]" name="checkResponseData" duration-ms="5" started-at="2019-08-25T16:22:28Z" finished-at="2019-08-25T16:22:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseData -->
-        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@1794d431]" name="checkStatusCode" duration-ms="10" started-at="2019-08-25T06:57:04Z" finished-at="2019-08-25T06:57:04Z">
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@42e26948]" name="checkStatusCode" duration-ms="2" started-at="2019-08-25T16:22:28Z" finished-at="2019-08-25T16:22:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusCode -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@1794d431]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-08-25T06:57:04Z" finished-at="2019-08-25T06:57:04Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC002_Get_Specific_Employee@42e26948]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-08-25T16:22:28Z" finished-at="2019-08-25T16:22:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.employeeapi.testcases.TC002_Get_Specific_Employee -->
       <class name="com.qa.employeeapi.testcases.TC001_Get_All_Employees">
-        <test-method status="PASS" signature="getEmpDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@39c0f4a]" name="getEmpDetails" is-config="true" duration-ms="10383" started-at="2019-08-25T06:56:51Z" finished-at="2019-08-25T06:57:02Z">
+        <test-method status="PASS" signature="getEmpDetails()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@1794d431]" name="getEmpDetails" is-config="true" duration-ms="10427" started-at="2019-08-25T16:22:16Z" finished-at="2019-08-25T16:22:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getEmpDetails -->
-        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@39c0f4a]" name="checkResponseBody" duration-ms="164" started-at="2019-08-25T06:57:02Z" finished-at="2019-08-25T06:57:02Z">
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@1794d431]" name="checkResponseBody" duration-ms="134" started-at="2019-08-25T16:22:27Z" finished-at="2019-08-25T16:22:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkResponseBody -->
-        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@39c0f4a]" name="checkStatusCode" duration-ms="6" started-at="2019-08-25T06:57:02Z" finished-at="2019-08-25T06:57:02Z">
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@1794d431]" name="checkStatusCode" duration-ms="2" started-at="2019-08-25T16:22:27Z" finished-at="2019-08-25T16:22:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatusCode -->
-        <test-method status="PASS" signature="checkresponseTime()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@39c0f4a]" name="checkresponseTime" duration-ms="2" started-at="2019-08-25T06:57:02Z" finished-at="2019-08-25T06:57:02Z">
+        <test-method status="PASS" signature="checkresponseTime()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@1794d431]" name="checkresponseTime" duration-ms="2" started-at="2019-08-25T16:22:27Z" finished-at="2019-08-25T16:22:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkresponseTime -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@39c0f4a]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-08-25T06:57:02Z" finished-at="2019-08-25T06:57:02Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.employeeapi.testcases.TC001_Get_All_Employees@1794d431]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-08-25T16:22:27Z" finished-at="2019-08-25T16:22:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

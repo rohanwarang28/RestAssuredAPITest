@@ -91,7 +91,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">11 methods,   11 passed</span>
+                    <span class="method-stats">14 methods,   14 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -148,6 +148,21 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee" hash-for-method="updateEmployeeRecord">updateEmployeeRecord</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee" hash-for-method="validateResponseBody">validateResponseBody</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee" hash-for-method="validateStatusCode">validateStatusCode</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee" hash-for-method="validateStatusLine">validateStatusLine</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -250,6 +265,35 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
+              <span class="class-name">com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateResponseBody">
+                  </a> <!-- validateResponseBody -->
+                  <span class="method-name">validateResponseBody</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateStatusCode">
+                  </a> <!-- validateStatusCode -->
+                  <span class="method-name">validateStatusCode</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="validateStatusLine">
+                  </a> <!-- validateStatusLine -->
+                  <span class="method-name">validateStatusLine</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
               <span class="class-name">com.qa.employeeapi.testcases.TC001_Get_All_Employees</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
@@ -292,6 +336,7 @@
       &lt;class name=&quot;com.qa.employeeapi.testcases.TC002_Get_Specific_Employee&quot;/&gt;
       &lt;class name=&quot;com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee&quot;/&gt;
       &lt;class name=&quot;com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee&quot;/&gt;
+      &lt;class name=&quot;com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -305,7 +350,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (4 classes)</span>
+                <span class="test-name">Test (5 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -331,56 +376,68 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(11);
+data.addRows(14);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'createEmployee')
 data.setCell(0, 2, 'com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee')
-data.setCell(0, 3, 5851);
+data.setCell(0, 3, 6408);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'updateEmployeeRecord')
 data.setCell(1, 2, 'com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee')
-data.setCell(1, 3, 5760);
+data.setCell(1, 3, 5753);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'checkResponseBody')
 data.setCell(2, 2, 'com.qa.employeeapi.testcases.TC001_Get_All_Employees')
-data.setCell(2, 3, 164);
+data.setCell(2, 3, 134);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'checkStatusCode')
-data.setCell(3, 2, 'com.qa.employeeapi.testcases.TC002_Get_Specific_Employee')
+data.setCell(3, 1, 'checkResponseBodyForCreate')
+data.setCell(3, 2, 'com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee')
 data.setCell(3, 3, 10);
 data.setCell(4, 0, 4)
-data.setCell(4, 1, 'checkStatusCode')
-data.setCell(4, 2, 'com.qa.employeeapi.testcases.TC001_Get_All_Employees')
-data.setCell(4, 3, 6);
+data.setCell(4, 1, 'checkResponseData')
+data.setCell(4, 2, 'com.qa.employeeapi.testcases.TC002_Get_Specific_Employee')
+data.setCell(4, 3, 5);
 data.setCell(5, 0, 5)
-data.setCell(5, 1, 'checkResponseData')
-data.setCell(5, 2, 'com.qa.employeeapi.testcases.TC002_Get_Specific_Employee')
-data.setCell(5, 3, 5);
+data.setCell(5, 1, 'validateResponseBody')
+data.setCell(5, 2, 'com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee')
+data.setCell(5, 3, 3);
 data.setCell(6, 0, 6)
 data.setCell(6, 1, 'checkResponseBodyForUpdate')
 data.setCell(6, 2, 'com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee')
-data.setCell(6, 3, 3);
+data.setCell(6, 3, 2);
 data.setCell(7, 0, 7)
-data.setCell(7, 1, 'checkresponseTime')
-data.setCell(7, 2, 'com.qa.employeeapi.testcases.TC001_Get_All_Employees')
+data.setCell(7, 1, 'checkStatusCode')
+data.setCell(7, 2, 'com.qa.employeeapi.testcases.TC002_Get_Specific_Employee')
 data.setCell(7, 3, 2);
 data.setCell(8, 0, 8)
-data.setCell(8, 1, 'checkResponseBodyForCreate')
-data.setCell(8, 2, 'com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee')
+data.setCell(8, 1, 'validateStatusCode')
+data.setCell(8, 2, 'com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee')
 data.setCell(8, 3, 2);
 data.setCell(9, 0, 9)
-data.setCell(9, 1, 'verifyStatusCodeForUpdate')
-data.setCell(9, 2, 'com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee')
-data.setCell(9, 3, 1);
+data.setCell(9, 1, 'checkStatusCode')
+data.setCell(9, 2, 'com.qa.employeeapi.testcases.TC001_Get_All_Employees')
+data.setCell(9, 3, 2);
 data.setCell(10, 0, 10)
 data.setCell(10, 1, 'checkResponseCodeForCreate')
 data.setCell(10, 2, 'com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee')
-data.setCell(10, 3, 1);
+data.setCell(10, 3, 2);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'verifyStatusCodeForUpdate')
+data.setCell(11, 2, 'com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee')
+data.setCell(11, 3, 2);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'checkresponseTime')
+data.setCell(12, 2, 'com.qa.employeeapi.testcases.TC001_Get_All_Employees')
+data.setCell(12, 3, 2);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'validateStatusLine')
+data.setCell(13, 2, 'com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee')
+data.setCell(13, 3, 1);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 11 seconds</span>
+              <span class="suite-total-time">Total running time: 12 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -413,84 +470,107 @@ return data;
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">checkResponseBody</span>
-                <span class="method-start">10427 ms</span>
+                <span class="method-start">10446 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">checkStatusCode</span>
-                <span class="method-start">10595 ms</span>
+                <span class="method-start">10583 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">checkresponseTime</span>
-                <span class="method-start">10605 ms</span>
+                <span class="method-start">10587 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">10609 ms</span>
+                <span class="method-start">10597 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.qa.employeeapi.testcases.TC002_Get_Specific_Employee</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">getEmployeeDetails</span>
-                <span class="method-start">10612 ms</span>
+                <span class="method-start">10608 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">checkResponseData</span>
-                <span class="method-start">12121 ms</span>
+                <span class="method-start">11382 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">checkStatusCode</span>
-                <span class="method-start">12128 ms</span>
+                <span class="method-start">11388 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">12148 ms</span>
+                <span class="method-start">11392 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">getEmployeeDetails</span>
-                <span class="method-start">12157 ms</span>
+                <span class="method-start">11393 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">createEmployee</span>
-                <span class="method-start">12161 ms</span>
+                <span class="method-start">11396 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">checkResponseBodyForCreate</span>
-                <span class="method-start">18014 ms</span>
+                <span class="method-start">17806 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">checkResponseCodeForCreate</span>
-                <span class="method-start">18018 ms</span>
+                <span class="method-start">17819 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">18021 ms</span>
+                <span class="method-start">17823 ms</span>
               </div> <!-- configuration-class after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">getEmployeeDetails</span>
-                <span class="method-start">18022 ms</span>
+                <span class="method-start">17824 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">updateEmployeeRecord</span>
-                <span class="method-start">18035 ms</span>
+                <span class="method-start">17842 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verifyStatusCodeForUpdate</span>
-                <span class="method-start">23797 ms</span>
+                <span class="method-start">23597 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">checkResponseBodyForUpdate</span>
-                <span class="method-start">23802 ms</span>
+                <span class="method-start">23620 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">23812 ms</span>
+                <span class="method-start">23624 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">deleteEmployee</span>
+                <span class="method-start">23625 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">validateResponseBody</span>
+                <span class="method-start">26882 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateStatusCode</span>
+                <span class="method-start">26886 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">validateStatusLine</span>
+                <span class="method-start">26890 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">tearDown</span>
+                <span class="method-start">26892 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

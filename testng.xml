@@ -7,8 +7,8 @@
       <class name="com.qa.employeeapi.testcases.TC001_Get_All_Employees"/>
       <class name="com.qa.employeeapi.testcases.TC002_Get_Specific_Employee"/>
       <class name="com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee"/>
-       <class name="com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee"/>
-      
+      <class name="com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee"/>
+      <class name="com.qa.employeeapi.testcases.TC005_DELETE_DeleteExistingEmployee"/>
       
      
     </classes>
