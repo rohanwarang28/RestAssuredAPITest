@@ -608,3 +608,96 @@
 2019-08-25 12:27:15 INFO  RestAssuredAPITesting:47 - Checking response code for update request
 2019-08-25 12:27:15 INFO  RestAssuredAPITesting:55 - Checking response body for update request
 2019-08-25 12:27:15 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 21:44:11 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 21:44:22 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 21:44:23 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 21:44:28 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 21:44:28 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 21:44:28 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 21:44:28 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 21:44:28 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 21:44:34 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 21:44:34 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 21:44:34 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 21:44:34 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 21:45:37 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 21:45:48 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 21:45:49 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 21:45:49 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 21:45:54 INFO  RestAssuredAPITesting:19 - **********Started TC005_DELETE_DeleteExistingEmployee*********
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:31 - **********Validating response body_DeleteExistingEmployee*********
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:39 - **********Validating status code_DeleteExistingEmployee*********
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:45 - **********Validating status line_DeleteExistingEmployee*********
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 21:45:58 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 21:46:04 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 21:46:04 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 21:46:04 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 21:46:04 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 21:47:41 INFO  RestAssuredAPITesting:19 - **********Started TC005_DELETE_DeleteExistingEmployee*********
+2019-08-25 21:47:49 INFO  RestAssuredAPITesting:31 - **********Validating response body_DeleteExistingEmployee*********
+2019-08-25 21:47:49 INFO  RestAssuredAPITesting:39 - **********Validating status code_DeleteExistingEmployee*********
+2019-08-25 21:47:49 INFO  RestAssuredAPITesting:45 - **********Validating status line_DeleteExistingEmployee*********
+2019-08-25 21:48:07 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 21:48:21 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 21:48:21 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 21:48:21 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 21:48:21 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 21:48:21 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 21:48:24 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 21:48:24 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 21:48:24 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 21:48:24 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 21:48:54 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 21:49:21 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 21:49:32 INFO  RestAssuredAPITesting:19 - **********Started TC005_DELETE_DeleteExistingEmployee*********
+2019-08-25 21:49:35 INFO  RestAssuredAPITesting:31 - **********Validating response body_DeleteExistingEmployee*********
+2019-08-25 21:49:35 INFO  RestAssuredAPITesting:39 - **********Validating status code_DeleteExistingEmployee*********
+2019-08-25 21:49:35 INFO  RestAssuredAPITesting:45 - **********Validating status line_DeleteExistingEmployee*********
+2019-08-25 21:49:35 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 21:52:17 INFO  RestAssuredAPITesting:22 - ***********started TC001_Get_All_Employees**********
+2019-08-25 21:52:27 INFO  RestAssuredAPITesting:31 - ************checking response body*****************
+2019-08-25 21:52:27 INFO  RestAssuredAPITesting:38 - ************checking status code*****************
+2019-08-25 21:52:27 INFO  RestAssuredAPITesting:40 - Status code ==>200
+2019-08-25 21:52:27 INFO  RestAssuredAPITesting:60 - *********TC001_Get_All_Employees ended**********
+2019-08-25 21:52:27 INFO  RestAssuredAPITesting:21 - ************TC002_Get_Specific_Employee started******************
+2019-08-25 21:52:28 INFO  RestAssuredAPITesting:30 - ************checking the response body******************
+2019-08-25 21:52:28 INFO  RestAssuredAPITesting:39 - ************checking status code******************
+2019-08-25 21:52:28 INFO  RestAssuredAPITesting:48 - ************TC002_Get_Specific_Employee finished******************
+2019-08-25 21:52:28 INFO  RestAssuredAPITesting:28 - ************TC003_POST_CreateNewEmployee started******************
+2019-08-25 21:52:28 INFO  RestAssuredAPITesting:39 - ************creating a new Employee******************
+2019-08-25 21:52:29 INFO  RestAssuredAPITesting:50 - ************New Employee Created******************
+2019-08-25 21:52:34 INFO  RestAssuredAPITesting:56 - ************Checking response body for create request******************
+2019-08-25 21:52:34 INFO  RestAssuredAPITesting:66 - ************Checking Status code for create request******************
+2019-08-25 21:52:34 INFO  RestAssuredAPITesting:74 - ************TC003_POST_CreateNewEmployee finshed******************
+2019-08-25 21:52:34 INFO  RestAssuredAPITesting:24 - ***********TC004_PUT_UpdateExistingEmployee started************
+2019-08-25 21:52:34 INFO  RestAssuredAPITesting:32 - ***********Updating employee record************
+2019-08-25 21:52:40 INFO  RestAssuredAPITesting:42 - *************Record updated******************
+2019-08-25 21:52:40 INFO  RestAssuredAPITesting:47 - Checking response code for update request
+2019-08-25 21:52:40 INFO  RestAssuredAPITesting:55 - Checking response body for update request
+2019-08-25 21:52:40 INFO  RestAssuredAPITesting:62 - ***********TC004_PUT_UpdateExistingEmployee finished************
+2019-08-25 21:52:40 INFO  RestAssuredAPITesting:20 - **********Started TC005_DELETE_DeleteExistingEmployee*********
+2019-08-25 21:52:43 INFO  RestAssuredAPITesting:32 - **********Validating response body_DeleteExistingEmployee*********
+2019-08-25 21:52:43 INFO  RestAssuredAPITesting:40 - **********Validating status code_DeleteExistingEmployee*********
+2019-08-25 21:52:43 INFO  RestAssuredAPITesting:46 - **********Validating status line_DeleteExistingEmployee*********
+2019-08-25 21:52:43 INFO  RestAssuredAPITesting:52 - ************TC005_DELETE_DeleteExistingEmployee finshed******************

@@ -29,7 +29,7 @@ public class TC002_Get_Specific_Employee extends TestBase{
 	public void checkResponseData() {
 		logger.info("************checking the response body******************");
 		String respBody = response.getBody().asString();
-		Assert.assertEquals(respBody.contains("67711"), true);
+		Assert.assertEquals(respBody.contains("67769"), true);
 		
 	}
 	

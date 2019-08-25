@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee">
+      <class name="com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee">
         <methods>
-          <include name="tearDown"/>
+          <include name="checkResponseBodyForCreate"/>
           <include name="getEmployeeDetails"/>
-          <include name="checkResponseBodyForUpdate"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.qa.employeeapi.testcases.TC004_PUT_UpdateExistingEmployee -->
+      </class> <!-- com.qa.employeeapi.testcases.TC003_POST_CreateNewEmployee -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

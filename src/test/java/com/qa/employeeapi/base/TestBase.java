@@ -13,7 +13,7 @@ public class TestBase {
 	
 	public static RequestSpecification httpRequest;
 	public static Response response;
-	public int empID=67711;
+	public int empID=67769;
 	
 	public Logger logger;
 	
